@@ -35,5 +35,3 @@ int main()
 	cout<<c[i]<<"\t\t"<<a[i]<<endl;
 	}
 }
-/*swathi.cpp
-Displaying swathi.cpp.*/
